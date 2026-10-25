@@ -1,0 +1,1281 @@
+{
+    "he": {
+        "general": [
+            {
+                "text": "חזור",
+                "id": "backBtn"
+            },
+            {
+                "text": "הבא",
+                "id": "nextBtn"
+            }
+        ],
+        "TiresNavbar": [
+            {
+                "knowCar": "הכרת הרכב",
+                "defender": "דיפנדר",
+                "highlix": "הייליקס",
+                "accident": "תחקירים",
+                "summary": "סיכום"
+            }
+        ],
+        "infoPage": [
+            {
+                "text": "הוראות לתפעול הלומדה",
+                "id": "infoTitle"
+            },
+            {
+                "text": "על מנת להחליף שפה לחצו על כפתור זה: \n בעזרת התפריט תוכלו לראות את נושאי הלומדה ואת התקדמותכם \n הכירו את גל הגלגל שילווה אתכם במהלך הלומדה וייתן לכם עצות וטיפים: \n במהלך הלומדה תוכלו להתקדם קדימה ולחזור אחורה באמצעות כפתורים - שימו לב שיהיו חלקים בהם לא תוכלו להתקדם עד שתמלאו אחר ההוראות",
+                "id": "infoText"
+            },
+            {
+                "text": "עב",
+                "id": "languageBtn"
+            },
+            {
+                "text": "חזרה לאחור"
+            },
+            {
+                "text": "מעבר הלאה"
+            },
+            {
+                "text": "שימו לב להוראות - \n אין עדיין מעבר הלאה"
+            },
+            {
+                "text": "הלומדה מלוות בהקראה - ניתן להפעיל ולכבות אותה בכל שלב"
+            },
+            {
+                "text": "המשך ללא קריינות"
+            },
+            {
+                "text": "תוכלו לשנות את בחירתכם בלחיצה על אייקון הרמקול"
+            }
+        ],
+        "welcomePage": [
+            {
+                "title": "ברוכים הבאים להשתלמות - היתר 36",
+                "text": "השתלמות זו תעזור לך להכיר את הרכב, את אופן הנהיגה והאחזקה שלו. כך תוכל לשמור על הרכב, למנוע תקלות, להפעיל ולנצל אותו בצורה הטובה ביותר.",
+                "startBtn": "בואו נצא לדרך"
+            }
+        ],
+        "contentStart": [
+            {
+                "text": "נושאי הלומדה"
+            }
+        ],
+        "Introduction": [
+            {
+                "text": "רכב “דוד” הינו ג’יפ ממוגן תחליף סופה ממוגנת וקיים על שתי פלטפורמות:",
+                "note": "עבור עם העכבר על הקלף כדי ללמוד על כל רכב"
+            },
+            {
+                "card1Title": "דוד לנד רובר דיפנדר",
+                "card1Text": "קיים משנת 2006 במספר דגמים",
+                "card2Title": "דוד טויוטה היילקס",
+                "card2Text": "קיים כחליף לדוד משנת 2019 ופותח באופן דומה עם שיפור משמעותי ביכולת העבירות והאמינות של הרכב עקב התאמתו הטובה יותר לנשיאת המשקל הגדול של המיגון"
+            },
+            {
+                "text": "ג’יפ הדוד מיועד להיות רכב סיור, חפ”ק, לוחמים.  \n הכלי מפותח בארץ ע”י צה”ל בשיתוף חברת מ.ד.ת , כאשר רוב היצור בארה”ב במפעל מדת בארה”ב"
+            }
+        ],
+        "TechnicalData": [
+            {
+                "tableData": [
+                    [
+                        "שם הרכב",
+                        "דוד - דיפנדר TD5 (2006)",
+                        "דוד - דיפנדר TD4 (2007)",
+                        "דוד - טויוטה היילקס"
+                    ],
+                    [
+                        "נפח המנוע",
+                        "2.498 ליטר (טורבו דיזל)",
+                        "2.402 ליטר (טורבו דיזל)",
+                        "2.4 ליטר (טורבו דיזל)"
+                    ],
+                    [
+                        "הספק",
+                        "122 כ\"ס",
+                        "122 כ\"ס",
+                        "150 כ\"ס"
+                    ],
+                    [
+                        "ממסרת",
+                        "ידנית 5 הילוכים",
+                        "ידנית 6 הילוכים",
+                        "אוטומטית 6 הילוכים"
+                    ],
+                    [
+                        "סוג הנעה",
+                        "4X4 קבוע עם דיפרנציאל אורכי (הניתן לנעילה)",
+                        "4X4 קבוע עם דיפרנציאל אורכי (הניתן לנעילה)",
+                        "הנעה אחורית"
+                    ],
+                    [
+                        "מערכות בלמים",
+                        "ABS, ETC",
+                        "ABS, ETC",
+                        "ABS"
+                    ],
+                    [
+                        "קיבולת מיכל דלק",
+                        "75 ליטר (סולר)",
+                        "75 ליטר (סולר)",
+                        "75 ליטר (סולר)"
+                    ],
+                    [
+                        "מהירות מותרת",
+                        "עפ\"י תקנות התעבורה ולא יותר מ- 80 קמ\"ש",
+                        "עפ\"י תקנות התעבורה ולא יותר מ- 80 קמ\"ש",
+                        "עפ\"י תקנות התעבורה ולא יותר מ- 80 קמ\"ש"
+                    ],
+                    [
+                        "לחץ אוויר psi",
+                        "קדמיים 45, אחוריים 65",
+                        "קדמיים 45, אחוריים 65",
+                        "קדמיים 50, אחוריים 55"
+                    ],
+                    [
+                        "משקל עצמי",
+                        "3350 ק\"ג",
+                        "3350 ק\"ג",
+                        "3840 ק\"ג"
+                    ],
+                    [
+                        "כושר העמסה",
+                        "550 ק\"ג",
+                        "550 ק\"ג",
+                        "520 ק\"ג"
+                    ],
+                    [
+                        "שם הרכב",
+                        "3900 ק\"ג",
+                        "3900 ק\"ג",
+                        "4360 ק\"ג"
+                    ]
+                ]
+            },
+            {
+                "text": "שימו לב ללחץ האוויר והמשקל הכולל!",
+                "img": "images/galBubble/he/galTechnical.svg",
+                "title": "נתונים טכניים"
+            }
+        ],
+        "DefenderStart": [
+            {
+                "title": "דוד - דיפנדר",
+                "semiTitle": "ישנם 2 דגמים עיקריים לדוד:",
+                "text1": "דוד סיור - רכב בט”ש להסעת 4-5 לוחמים.",
+                "text2": "דוד לוחמים (לייט) - פיתוח ויצור ג’יפ לוחמים, השונה מהדוד הסיור בכך שהמיגון קל יותר ולכן ניתן להסיע 6 לוחמים: נהג, מפקד ו-4 לוחמים."
+            }
+        ],
+        "DefenderVideo": [
+            {
+                "title": "תפעול תיבת העברה",
+                "video": "videos/he/defenderVideo.mp4"
+            },
+            {
+                "galSrc": "images/galBubble/he/galDefenderVideo.svg",
+                "title1": "תפקיד תיבת ההעברה",
+                "text1": "ידית ההילוכים המשנית (תיבת העברה) מאפשרת לבחור את אופן העברת הכוח בהתאם לתנאי הדרך: \n H – טווח גבוה לנהיגה רגילה בכביש ובשטח קל, על קרקע יבשה ומישורית. \n N – סרק מצב ניתוק בין המנוע לגלגלים. \n L – טווח נמוך לשימוש במהירויות נמוכות כאשר נדרש כוח רב: שטח קשה, תמרון איטי, טיפוס או ירידה תלולה, או כאשר הרכב מתקשה להתקדם ב־H.",
+                "title2": "מעבר בין המצבים ושימוש במצב סרק",
+                "text2": "מצב סרק (N) מנתק את העברת הכוח מהמנוע לגלגלים ומשמש לגרירה בלבד. \n מעבר בין מצבי תיבת ההעברה: \n 1. לחץ על המצמד. \n 2. העבר את הידית בשלבים: H ⇄ N ⇄ L. \n 3. אם יש התנגדות – אין להפעיל כוח. \n במקרה של קושי בשילוב: \n כשהמצמד לחוץ והתיבה ב־N: שלב להילוך שני, שחרר מצמד לרגע קצר, לחץ שוב ונסה לשלב מחדש. \n לפני תחילת נסיעה: \n בחר הילוך מתאים בתיבת ההילוכים הראשית."
+            }
+        ],
+        "DefenderTransfer": [
+            {
+                "title": "תפעול תיבת העברה",
+                "roadTitle": "מצב כביש -",
+                "roadText": " דיפרנציאל מרכזי פתוח",
+                "fieldTitle": "מצב שטח -",
+                "fieldText": " דיפרנציאל מרכזי נעול",
+                "wheel1": "images/he/gearWheel1.svg",
+                "wheel2": "images/he/gearWheel2.svg",
+                "gal1": "images/galBubble/he/defenderTransfer1.svg",
+                "gal2": "images/galBubble/he/defenderTransfer2.svg",
+                "gal3": "images/galBubble/he/defenderTransfer3.svg"
+            }
+        ],
+        "DifrenzialChoose": [
+            {
+                "title": "תיבת העברה - בחירת נועל דפרנציאל",
+                "bubble": "images/he/pressMe-buble-he.svg",
+                "screens": [
+                    {
+                        "warningImg": "images/he/big-warning1.svg",
+                        "content": [
+                            {
+                                "parts": [
+                                    {
+                                        "type": "text",
+                                        "value": "ניתן לשלב את נועל הדיפרנציאל או להוציאו משילוב, הן כאשר כלי הרכב עומד והן כשהוא בנסיעה בכל מהירות שהיא.\nכאשר הרכב בתנועה חובה לנוע על קרקע יציבה, בקו ישר ובלא החלקת גלגלים."
+                                    }
+                                ]
+                            },
+                            {
+                                "parts": [
+                                    {
+                                        "type": "highlight",
+                                        "value": "אל תשלב את נועל הדיפרנציאל ממצב ניוטרל בתיבת ההעברה."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "warningImg": "images/he/big-warning2.svg",
+                        "content": [
+                            {
+                                "parts": [
+                                    {
+                                        "type": "text",
+                                        "value": "מתי להשתמש בנועל הדיפרנציאל? בדרך כלל יש לנעול את הדיפרנציאל "
+                                    },
+                                    {
+                                        "type": "bold",
+                                        "value": "רק בנהיגת שטח"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "value": " או בנהיגה על שטחים חלקים."
+                                    }
+                                ]
+                            },
+                            {
+                                "parts": [
+                                    {
+                                        "type": "text",
+                                        "value": "שחרר תמיד את נועל הדיפרנציאל לנהיגה רגילה או מיד לאחר שהגעת לפני שטח המבטיחים אחיזת דרך טובה, כשהרכב "
+                                    },
+                                    {
+                                        "type": "bold",
+                                        "value": "בעצירה"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "value": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "parts": [
+                                    {
+                                        "type": "text",
+                                        "value": "בין אם נבחרו הילוכים גבוהים או נמוכים.\nבשטח - אם יש ספק בדבר הצורך בנעילת דיפרנציאל, הכלל הוא "
+                                    },
+                                    {
+                                        "type": "bold",
+                                        "value": "\"יש ספק! אין ספק\""
+                                    },
+                                    {
+                                        "type": "text",
+                                        "value": "נועלים דיפרנציאל!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "DifrenzialWarning": [
+            {
+                "text1": "הנורית בצבע חום צהבהב תידלק בלוח המחוונים, כאשר נועל הדיפרנציאל ישתלב באופן מעשי ולא רק כאשר הוא נבחר. באותו אופן, הנורית תיכבה רק כאשר הנועל ישתחרר מנעילה באופן מעשי.",
+                "text2": "דיפרנציאל “תפוס” -",
+                "text3": "במידה ונורית האזהרה ממאנת להיכבות לאחר שנבחר שחרור נועל הדיפרנציאל, ייתכן כי הדיפרנציאל “תפוס”. נסיעה בהילוך אחורי למרחק קצר ולאחר מכן קדימה תשחרר בדרך כלל את נעילת הדיפרנציאל.",
+                "bubble": "images/he/pressMe-buble-he.svg",
+                "galBubble": "images/galBubble/he/DifrenzialLock-bubble.svg",
+                "warningImg": "images/he/big-warning3.svg"
+            }
+        ],
+        "ChangeGear": [
+            {
+                "title": "בחירת הילוכים על פי סוג הנסיעה",
+                "tableData": [
+                    [
+                        "תיבת העברה",
+                        "תיבת הילוכים",
+                        "סוג נסיעה"
+                    ],
+                    [
+                        "HIGH",
+                        "1 - 6",
+                        "• נסיעה רגילה \n • בוץ,חול"
+                    ],
+                    [
+                        "LOW",
+                        "3 / 4 / 5",
+                        "• חול, בוץ טובעני \n • חצץ \n • גלישת דיונות \n • עליות תלולות -אבנים/דרדרת"
+                    ],
+                    [
+                        "LOW",
+                        "2",
+                        "• עליות תלולות -אבנים/דרדרת \n • חילוץ \n • גלישת דיונות"
+                    ],
+                    [
+                        "LOW",
+                        "1",
+                        "• ירידות תלולות -אבנים/דרדרת \n • עליות תלולות משטחי סלע עם אחיזה טובה \n • שטח קשה הדורש נהיגה איטית"
+                    ]
+                ]
+            }
+        ],
+        "EmergencyStart": [
+            {
+                "title": " מערכת התנעת חירום ",
+                "text1": "בכלי רכב מדגם 2009 הורכבה מערכת ",
+                "text2": "להתנעת חרום. ",
+                "text3": "עקרון הפעולה הינו שימוש במצברים המיועדים להפעלת מערכות הקשר והציוד הנלווה לצורך התנעת הרכב במקרה של ריקון מצברי הרכב. \n מערכת להתנעת החרום נמצאת מתחת למושב הנהג בחלקו הקדמי. ",
+                "text4": "מערכת להתנעת החרום ",
+                "text5": "נמצאת מתחת ",
+                "text6": "למושב הנהג בחלקו הקדמי.",
+                "gal1": "images/galBubble/he/galBubbleEmergency1.svg",
+                "gal2": "images/galBubble/he/galBubbleEmergency2.svg",
+                "gal3": "images/galBubble/he/galBubbleEmergency3.svg",
+                "gal4": "images/galBubble/he/galBubbleEmergency4.svg",
+                "gal5": "images/galBubble/he/galBubbleEmergency5.svg",
+                "startCar": "התנעת הרכב"
+            }
+        ],
+        "EtcControl": [
+            {
+                "title": "מערכת בקרת אחיזה ETC",
+                "ice1": "images/he/ice1.svg",
+                "ice2": "images/he/ice2.svg",
+                "ice3": "images/he/ice3.svg",
+                "ice4": "images/he/ice4.svg"
+            }
+        ],
+        "InnerLock": [
+            {
+                "title": "מנגנון נעילה פנימי - לצורך מבצעי",
+                "text": "בכל מקרה של נסיעה לצורך מבצעי תבוצע נעילה ע”פ הגדרת מפקד",
+                "bubble": "images/he/pressMe-buble-he.svg",
+                "bubbleRed": "images/galBubble/he/bubble-innerLock.svg"
+            }
+        ],
+        "BatteryPlace": [
+            {
+                "text": "המצבר ממוקם מתחת למושב הנהג",
+                "bubble": "images/galBubble/he/battary-bubble.svg",
+                "bubble1": "images/galBubble/he/battary-bubble1.svg"
+            },
+            {
+                "text": "המצבר ממוקם מתחת למושב הנהג"
+            }
+        ],
+        "DefenderEnd": [
+            {
+                "title": "דגשי תפעול כלליים",
+                "text": "יש לנעול דיפרנציאל כאשר מחליפים גלגל. \n בזמן התנעה יש לחכות שתכבה נורת סליל ההצתה. \n אין להפעיל המתנע יותר מ- 30 שניות. \n יש לחכות 15 שניות לפני כיבוי המנוע. \n אין להחזיק את ההגה בסוף מהלך יותר מ- 3 שניות.",
+                "popUp": "מצאתי להט - צהוב"
+            }
+        ],
+        "HighlixStart": [
+            {
+                "title": "דוד - טויוטה היילקס"
+            }
+        ],
+        "HighlixVideo": [
+            {
+                "title": "תיבת העברה - מנתק / משלב סרן קדמי",
+                "video": "videos/he/highlixVideo.mp4"
+            },
+            {
+                "galSrc": "images/galBubble/he/galDefenderVideo.svg",
+                "title": "תפעול תיבת העברה",
+                "text": "על מנת לשלב את הסרן הקדמי, הרכב יהיה במצב עצירה מלאה ותיבת ההילוכים תשולב במצב סרק (N). \n הרם את כפתור ההפעלה והמתן עד שנורת הבקרה תדלוק באופן קבוע - במצב זה הסרן הקדמי מניע. \n הרם את כפתור ההפעלה והמתן עד שנורת הבקרה תדלוק באופן קבוע - במצב זה הסרן הקדמי מניע. \n אם הסרן הקדמי לא משתלב, שלב את תיבת ההילוכים למצב D (כאשר כפתור ההפעלה מורם), הרפה מדוושת הבלמים ובצע נסיעה איטית (“גלישה”) למס’ מטרים ללא לחיצה על דוושת ההאצה"
+            },
+            {
+                "galSrc": "images/galBubble/he/galHighlixVideo.svg"
+            }
+        ],
+        "FrontSeren": [
+            {
+                "title": "מנתק / משלב סרן קדמי",
+                "text": "• כשהנורה האדומה לא דולקת- הציריה הימנית מנותקת \n • במצב זה(ורק במצב זה) ניתן לרדת/לעלות ירידה תלולה תוך שילוב מצב 4L \n • כשנדרש מצב 4X4 יש לשלב את הסרן בנסיעה איטית בהרמת המתג עד שהנורה האדומה דולקת \n • את הסרן יש לנתק על ידי הורדת המתג בנסיעה איטית עד שהנורה נכבית"
+            },
+            {
+                "tableData": [
+                    [
+                        "מצב",
+                        "בורר 4X4",
+                        "מתג “סרן קדמי”"
+                    ],
+                    [
+                        "כביש רגיל",
+                        "(2Hׁ) 4X4",
+                        "מנותק (מתג למטה, נורה כבויה)"
+                    ],
+                    [
+                        "עליה / ירידה כביש תלול",
+                        "4X4 LOW",
+                        "מנותק (מתג למטה, נורה כבויה)"
+                    ],
+                    [
+                        "שטח",
+                        "4X4 HIGH 4X4 LOW",
+                        "משולב (מתג למעלה, נורה דולקת)"
+                    ]
+                ]
+            }
+        ],
+        "SwitchBoard": [
+            {
+                "title": "לוח המתגים",
+                "galSrc": "images/galBubble/he/galSwitches.svg",
+                "switches": [
+                    "images/he/switch6.png",
+                    "images/he/switch5.png",
+                    "images/he/switch4.png",
+                    "images/he/switch3.png",
+                    "images/he/switch2.png",
+                    "images/he/switch1.png"
+                ],
+                "switchesText": [
+                    {
+                        "title": "פנס מהבהב – \"צ'קלקה\"",
+                        "text": "הדלקת פנס מהבהב לפי הוראות מפקד המשימה"
+                    },
+                    {
+                        "title": "מנתזי ניקוי משמשת חזית",
+                        "text": "ניקוי והסרת צבע שנזרק ע\"ג שמשת חזית. הערה - ברכב קיים הכנה בלבד"
+                    },
+                    {
+                        "title": "מפוח",
+                        "text": "טיהור תא לוחמים בזמני ירי. הפעלה - משימה מבצעית ורק במידה וברכב מותקני חרכי ירי"
+                    },
+                    {
+                        "title": "פנסי עיני חתול",
+                        "text": "במידה וקיים אלו פנסים לזיהוי בשעות הלילה. הפעלה - משימה מבצעית בלבד"
+                    },
+                    {
+                        "title": "מנתק סרן קדמי",
+                        "text": "משלב / מנתק את הנעת הסרן הקדמי"
+                    },
+                    {
+                        "title": "ביטול אורות",
+                        "text": "ביטול כלל אורות הרכב. הפעלה - משימה מבצעית בלבד"
+                    }
+                ]
+            }
+        ],
+        "Handbrake": [
+            {
+                "title": "בלם יד חשמלי",
+                "text": "בלם היד החשמלי נוסף לבלם היד המכני וממוקם על גל ההינע האחורי, בכניסה לסרן האחורי.",
+                "cards": [
+                    {
+                        "front": "הפעלה",
+                        "back": "• בלם היד החשמלי מופעל אוטומטית בעת משיכת או שחרור ידית בלם החניה. \n • משיכת הידית - נורית הבקרה מהבהבת, בסיום ההפעלה נורית הבקרה נשארת דלוקה. \n • שחרור הידית - נורית הבקרה מהבהבת, בסיום ההפעלה הנורית כבתה."
+                    },
+                    {
+                        "front": "בטיחות",
+                        "back": "• לפני יציאה מהרכב, תמיד לוודא שהרכב לא מדרדר. \n • לגרירה או חילוץ בלבד: אם הבלם החשמלי לא משתחרר, ניתן לשחררו באמצעות מצבר עזר 12 וולט. \n • אסור לשחרר את הפין המקשר בין אוכף בלם החניה לכבל ההפעלה – עלול לגרום לפציעה."
+                    },
+                    {
+                        "front": "חניה",
+                        "back": "• בדרך מישורית או בשיפוע עד 18% - הרכב נבלם כ-3 שניות לאחר משיכת הידית. \n • בשיפוע מעל 18% - הרכב נבלם כ-8 שניות לאחר משיכת הידית."
+                    },
+                    {
+                        "front": "תחילת נסיעה",
+                        "back": "ניתן להתחיל לנוע כ-3 שניות לאחר שחרור ידית בלם החניה."
+                    },
+                    {
+                        "front": "סיבות אפשריות לכשל בשחרור הבלם",
+                        "back": "• מתג ניתוק חשמל כללי מופעל. \n • מצברים פרוקים או מנותקים."
+                    }
+                ]
+            }
+        ],
+        "CarSystem": [
+            {
+                "title": "מערכות הרכב",
+                "galSrc": "images/galBubble/he/galSystem.svg",
+                "buttons": [
+                    {
+                        "id": 0,
+                        "title": "מתג ניתוק חשמל כללי",
+                        "title2": "מתג לניתוק חשמל כללי כולל מערכת 24V",
+                        "img": "images/powerOff-img.png",
+                        "text": "המתג מותקן בצד הקדמי הימני של תא המנוע. \n כיבוי מערכת חשמל כללית: סובב את הידית האדומה נגד כיוון השעון. \n הפעלת מערכת חשמל כללית: סובב את הידית האדומה עם כיוון השעון"
+                    },
+                    {
+                        "id": 2,
+                        "title": "כפתור מערכת מיזוג אחורית",
+                        "title2": "מערכת מיזוג אוויר אחורית",
+                        "img": "images/air-conditioner.png",
+                        "text": "• מתג ההפעלה של מערכת מיזוג אויר אחורית מותקן בצדו השמאלי של מערכת השמע. \n • הפעלת מערכת מיזוג אחורית: סובב את הידית עם כיוון השעון. \n • כיבוי מערכת מיזוג אחורית: סובב את הידית נגד כיוון השעון."
+                    },
+                    {
+                        "id": 1,
+                        "title": "מחוון מתח מערכת 24V",
+                        "title2": "מחוון מתח מערכת 24V",
+                        "img": "images/voltage-img.png",
+                        "text": "מותקן בצד השמאלי של ידית ההילוכים האוטומטית. \n המחוון מראה את רמת הטעינה של מערכת ה-24V. \n לאחר הנעת המנוע לא תופיע תצוגה עד להגעה למתח של 24.2 וולט (הפסקת זמזם התראה)."
+                    }
+                ]
+            }
+        ],
+        "HighlixDoors": [
+            {
+                "title": "מערכות הרכב",
+                "galSrc": "images/galBubble/he/galDoors.svg",
+                "buttons": [
+                    {
+                        "id": 0,
+                        "title": "ידית חיצונית לדלת",
+                        "steps": [
+                            {
+                                "title": "ידית חיצונית לדלת",
+                                "img": "images/doorHnadle.jpg",
+                                "text": "קיימת בצד החיצוני של הדלת. \n נעילת הרכב: \n • הכנס את המפתח וסובב עם כיוון השעון לנעילת הדלת. \n פתיחת הרכב: \n • הכנס את המפתח וסובב נגד כיוון השעון לפתיחת הדלת. \n • לחץ על הכפתור לפתיחת הדלת. \n • הערה אין לנעול את דלתות הרכב בזמן שהייה ברכב."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "title": "מנגנון דלת קדמית",
+                        "steps": [
+                            {
+                                "title": "מנגנון דלת קדמית",
+                                "img": "images/frontDoorImg.jpg",
+                                "text": "קיים ע\"ג כל שלושת הדלתות של הרכב. \n לסגירת הדלת: \n • לסגור את הדלת בעדינות עד להישמע של נקישה. \n לפתיחת הדלת: \n • משוך את הידית כלפי מעלה ודחוף את הדלת לכיוון היציאה."
+                            },
+                            {
+                                "title": "בריח לדלת קדמית",
+                                "img": "images/door-lock.jpeg",
+                                "text": "קיים רק בחלק האמצעי של הדלתות הקדמיות. \n יש לוודא סגירת הבריח טרם תנועת הרכב. \n לנעילת הדלת הקדמית: \n  • דחוף את הבריח למטה וסובב ימינה או שמאלה עד לנעילת זרוע ה-T. \n לפתיחת הבריח: \n • דחוף את הבריח למטה וסובב לשחרור זרוע ה- T."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "AccidentStart": [
+            {
+                "title": "תחקירי תאונות דרכים ופגיעות ברכב דוד"
+            }
+        ],
+        "AccidentDebrief": [
+            {
+                "galSrc": "images/galBubble/he/galAccident.svg",
+                "popups": {
+                    "bomb": {
+                        "steps": [
+                            {
+                                "title": "דוד אחרי מטען צד בשכם 12.12.06 (אין נפגעים)",
+                                "logo": "images/bomb.png",
+                                "images": [
+                                    "images/bomb1.png",
+                                    "images/bomb2.png",
+                                    "images/bomb3.png"
+                                ]
+                            }
+                        ]
+                    },
+                    "rocks": {
+                        "steps": [
+                            {
+                                "title": "פגיעות בדוד במבצע בקבטיה (אין נפגעים)",
+                                "logo": "images/bomb.png",
+                                "images": [
+                                    "images/kabatya1.png",
+                                    "images/kabatya2.png",
+                                    "images/kabatya3.png"
+                                ]
+                            }
+                        ]
+                    },
+                    "mud": {
+                        "steps": [
+                            {
+                                "title": "שקיע דוד בהדרכה בכביש בית ניר",
+                                "logo": "images/bomb.png",
+                                "images": [
+                                    "images/sink1.png",
+                                    "images/sink2.png",
+                                    "images/sink3.png"
+                                ]
+                            }
+                        ]
+                    },
+                    "flip": {
+                        "steps": [
+                            {
+                                "title": "התהפכות דוד בגזרת יהודה - חברון (3.12.09)",
+                                "text": "מועד האירוע: יום חמישי 03.12.09\nשעת האירוע: 15:30\nמקום האירוע: ציר הכניסה לבא\"ח נחל - תל ערד - גדס\"ר גולני.\nתיאור האירוע: במהלך סיור להכרת הגזרה התהפך רכב מסוג דוד המשמש כחפ\"ק מ\"פ בגזרת חטמ\"ר יהודה. התאונה נגרמה עקב הגעה לעיקול במהירות שאינה תואמת את תנאי הדרך.\nתוצאות: 3 פצועים קל. נגרם נזק לדוד.",
+                                "logo": "images/1.png"
+                            },
+                            {
+                                "title": "התהפכות דוד בגזרת יהודה - שומרון",
+                                "images": [
+                                    "images/flip1.png",
+                                    "images/flip2.png"
+                                ],
+                                "logo": "images/2.png"
+                            },
+                            {
+                                "title": "התהפכות דוד בגזרת שומרון (30.11.09)",
+                                "text": "מועד האירוע: 30.11.09 \n תיאור האירוע: במהלך אירוע מבצעי במרחב יצהר קרס הציר והדויד התהפך. \n מקום וזמן האירוע: ואדי ש.ג ב' שעה 13:56. \n תוצאות האירוע: אין נפגעים, נזק קל לדוד.",
+                                "images": [
+                                    "images/flip3.png",
+                                    "images/flip4.png"
+                                ],
+                                "logo": "images/3.png"
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Summary": [
+            {
+                "title": "סיכום",
+                "galSrc": "images/galBubble/he/galSummary.svg",
+                "text1": "רכב ה\"דוד\" אינו רכב סלחני לטעויות נהיגה. מדובר ברכב מודרני וחדיש, שמרגיש לג'יפ נוח ומפנק, אך מרכז הכובד הגבוה שלו דורש זהירות ומיומנות גבוהה. ",
+                "text2": "חוסר ניסיון עלול להוביל לטעויות, במיוחד במצבי קיצון. ",
+                "text3": "רוב התאונות, ובעיקר ההתהפכויות, מתרחשות על כביש ולא בשטח, לרוב במהירות גבוהה ובמקרים בהם הנהג איבד שליטה.  \n נהיגה נכונה ברכב זה מחייבת תשומת לב וראיה תעבורתית – כדאי לחלק את הקשב בין המגמה הקרובה (30–50 מטר) למכשולים מיידיים, ובין המגמה הרחוקה (מאות מטרים) לסיכונים הבאים. ",
+                "text4": "הדרך היעילה ביותר להתמודד עם רוב הסיכונים היא האטת מהירות הנסיעה, ",
+                "text5": "מה שמגדיל את זמן התגובה ומצמצם את השפעת משקל הרכב ומרכז הכובד הגבוה."
+            }
+        ],
+        "End": [
+            {
+                "btnText": "חזרה למארז",
+                "galSrc": "images/galBubble/he/galEnd.svg",
+                "warning": "images/he/end-warning.svg"
+            }
+        ]
+    },
+    "en": {
+        "general": [
+            {
+                "text": "Back",
+                "id": "backBtn"
+            },
+            {
+                "text": "Next",
+                "id": "nextBtn"
+            }
+        ],
+        "TiresNavbar": [
+            {
+                "knowCar": "Vehicle Intro",
+                "defender": "Defender",
+                "highlix": "Hilux",
+                "accident": "Debriefs",
+                "summary": "Summary"
+            }
+        ],
+        "infoPage": [
+            {
+                "text": "Learning Instructions",
+                "id": "infoTitle"
+            },
+            {
+                "text": "To change language click this button:\nUse the menu to view topics and progress.\nMeet Gal the Wheel who will guide you with tips.\nYou can move forward and back using buttons.\nSome parts require completing actions first.",
+                "id": "infoText"
+            },
+            {
+                "text": "EN",
+                "id": "languageBtn"
+            },
+            {
+                "text": "Go Back"
+            },
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Follow instructions –\nNext is locked"
+            },
+            {
+                "text": "Continue with narration"
+            },
+            {
+                "text": "Continue without narration"
+            },
+            {
+                "text": "You can change this using the speaker icon"
+            }
+        ],
+        "welcomePage": [
+            {
+                "title": "Welcome to Training – Permit 36",
+                "text": "This training will help you learn the vehicle, its driving and maintenance. You will preserve the vehicle, prevent faults, and use it efficiently.",
+                "startBtn": "Let’s begin"
+            }
+        ],
+        "contentStart": [
+            {
+                "text": "Training Topics"
+            }
+        ],
+        "Introduction": [
+            {
+                "text": "The “David” vehicle is an armored jeep replacing the armored Sufa, available on two platforms:",
+                "note": "Hover over a card to learn about each vehicle"
+            },
+            {
+                "card1Title": "David Land Rover Defender",
+                "card1Text": "In service since 2006 in several models",
+                "card2Title": "David Toyota Hilux",
+                "card2Text": "In service since 2019 as a replacement, developed with improved mobility and reliability for armored weight"
+            },
+            {
+                "text": "The David jeep serves as a patrol, command, and combat vehicle.\nDeveloped in Israel by the IDF with MDT, mainly produced in the USA."
+            }
+        ],
+        "TechnicalData": [
+            {
+                "tableData": [
+                    [
+                        "Vehicle Name",
+                        "David Defender TD5 (2006)",
+                        "David Defender TD4 (2007)",
+                        "David Toyota Hilux"
+                    ],
+                    [
+                        "Engine Volume",
+                        "2.498 L (Turbo Diesel)",
+                        "2.402 L (Turbo Diesel)",
+                        "2.4 L (Turbo Diesel)"
+                    ],
+                    [
+                        "Power",
+                        "122 HP",
+                        "122 HP",
+                        "150 HP"
+                    ],
+                    [
+                        "Transmission",
+                        "Manual 5-speed",
+                        "Manual 6-speed",
+                        "Automatic 6-speed"
+                    ],
+                    [
+                        "Drive Type",
+                        "Permanent 4x4 with lockable center diff",
+                        "Permanent 4x4 with lockable center diff",
+                        "Rear wheel drive"
+                    ],
+                    [
+                        "Brake Systems",
+                        "ABS, ETC",
+                        "ABS, ETC",
+                        "ABS"
+                    ],
+                    [
+                        "Fuel Tank Capacity",
+                        "75 L (Diesel)",
+                        "75 L (Diesel)",
+                        "75 L (Diesel)"
+                    ],
+                    [
+                        "Max Speed",
+                        "By law, max 80 km/h",
+                        "By law, max 80 km/h",
+                        "By law, max 80 km/h"
+                    ],
+                    [
+                        "Air Pressure / PS",
+                        "Front 45, Rear 65",
+                        "Front 45, Rear 65",
+                        "Front 45, Rear 65"
+                    ],
+                    [
+                        "Curb Weight",
+                        "3350 kg",
+                        "3350 kg",
+                        "3840 kg"
+                    ],
+                    [
+                        "Payload",
+                        "550 kg",
+                        "550 kg",
+                        "520 kg"
+                    ],
+                    [
+                        "Gross Weight",
+                        "3900 kg",
+                        "3900 kg",
+                        "4360 kg"
+                    ]
+                ]
+            },
+            {
+                "text": "Pay attention to tire pressure and total weight!",
+                "img": "images/galBubble/en/galTechnical.svg",
+                "title": "Technical Data"
+            }
+        ],
+        "DefenderStart": [
+            {
+                "title": "David – Defender",
+                "semiTitle": "There are two main David models:",
+                "text1": "Patrol David – security vehicle for 4–5 soldiers.",
+                "text2": "Combat David (Light) – lighter armor allowing transport of 6 soldiers."
+            }
+        ],
+        "DefenderVideo": [
+            {
+                "title": "Transfer Case Operation",
+                "video": "videos/he/defenderVideo.mp4"
+            },
+            {
+                "galSrc": "images/galBubble/en/galDefenderVideo.svg",
+                "title1": "Transfer Case Function",
+                "text1": "The secondary gear lever (transfer case) allows selection of the power transmission mode according to driving conditions: \n H – High range for normal driving on paved roads and light off-road terrain, on dry and level ground. \n N – Neutral, a disengaged state between the engine and the wheels. \n L – Low range for low-speed driving when increased power is required: difficult terrain, slow maneuvering, steep ascents or descents, or when the vehicle struggles to move in H.",
+                "title2": "Shifting Modes and Neutral Use",
+                "text2": "Neutral (N) disengages power transmission from the engine to the wheels and is used for towing only. \n Shifting between transfer case modes: \n 1. Depress the clutch. \n 2. Shift the lever gradually: H ⇄ N ⇄ L. \n 3. If resistance is felt – do not apply force. \n In case of difficulty engaging a mode: \n With the clutch depressed and the transfer case in N: shift into second gear in the main gearbox, briefly release the clutch, depress it again, and attempt to re-engage. \n Before starting to drive: \n Select the appropriate gear in the main gearbox according to road conditions."
+            }
+        ],
+        "DefenderTransfer": [
+            {
+                "title": "Transfer Case Operation",
+                "roadTitle": "Road Mode –",
+                "roadText": " Center differential unlocked",
+                "fieldTitle": "Off-road Mode –",
+                "fieldText": " Center differential locked",
+                "wheel1": "images/en/gearWheel1.svg",
+                "wheel2": "images/en/gearWheel2.svg",
+                "gal1": "images/galBubble/en/defenderTransfer1.svg",
+                "gal2": "images/galBubble/en/defenderTransfer2.svg",
+                "gal3": "images/galBubble/en/defenderTransfer3.svg"
+            }
+        ],
+        "DifrenzialChoose": [
+            {
+                "title": "Transfer Case – Differential Lock Selection",
+                "bubble": "images/en/pressMe-buble-he.svg",
+                "screens": [
+                    {
+                        "warningImg": "images/en/big-warning1.svg",
+                        "content": [
+                            {
+                                "parts": [
+                                    {
+                                        "type": "text",
+                                        "value": "The differential lock can be engaged or disengaged while stationary or driving at any speed.\nWhen moving, drive straight on firm ground without wheel slip."
+                                    }
+                                ]
+                            },
+                            {
+                                "parts": [
+                                    {
+                                        "type": "highlight",
+                                        "value": "Do not engage the differential lock from neutral."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "warningImg": "images/en/big-warning2.svg",
+                        "content": [
+                            {
+                                "parts": [
+                                    {
+                                        "type": "text",
+                                        "value": "When should you use the differential lock? Usually only for "
+                                    },
+                                    {
+                                        "type": "bold",
+                                        "value": "off-road driving"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "value": " or slippery surfaces."
+                                    }
+                                ]
+                            },
+                            {
+                                "parts": [
+                                    {
+                                        "type": "text",
+                                        "value": "Always disengage the lock for normal driving when the vehicle is "
+                                    },
+                                    {
+                                        "type": "bold",
+                                        "value": "stopped"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "value": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "parts": [
+                                    {
+                                        "type": "text",
+                                        "value": "If in doubt whether locking is needed, the rule is "
+                                    },
+                                    {
+                                        "type": "bold",
+                                        "value": "\"When in doubt – lock it\""
+                                    },
+                                    {
+                                        "type": "text",
+                                        "value": "."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "DifrenzialWarning": [
+            {
+                "text1": "The amber indicator lights only when the differential lock is fully engaged, and turns off only after full disengagement.",
+                "text2": "Stuck Differential –",
+                "text3": "If the warning light stays on after disengagement, the differential may be stuck. Driving briefly in reverse and then forward usually releases it.",
+                "bubble": "images/en/pressMe-buble-he.svg",
+                "galBubble": "images/galBubble/en/DifrenzialLock-bubble.svg",
+                "warningImg": "images/en/big-warning3.svg"
+            }
+        ],
+        "ChangeGear": [
+            {
+                "title": "Gear Selection by Driving Type",
+                "tableData": [
+                    [
+                        "Transfer Case",
+                        "Gearbox",
+                        "Driving Type"
+                    ],
+                    [
+                        "HIGH",
+                        "1 – 6",
+                        "• Normal driving\n• Sand, mud"
+                    ],
+                    [
+                        "LOW",
+                        "3 / 4 / 5",
+                        "• Sand, deep mud\n• Gravel\n• Dune sliding\n• Steep climbs"
+                    ],
+                    [
+                        "LOW",
+                        "2",
+                        "• Steep climbs\n• Recovery\n• Dune sliding"
+                    ],
+                    [
+                        "LOW",
+                        "1",
+                        "• Steep descents\n• Rocky climbs\n• Slow technical terrain"
+                    ]
+                ]
+            }
+        ],
+        "EmergencyStart": [
+            {
+                "title": "Emergency Start System",
+                "text1": "Vehicles from 2009 include an ",
+                "text2": "emergency start system. ",
+                "text3": "The system uses auxiliary batteries to start the vehicle if main batteries are depleted.\nIt is located under the front of the driver’s seat. ",
+                "text4": "Emergency start system ",
+                "text5": "is located under ",
+                "text6": "the front of the driver’s seat.",
+                "gal1": "images/galBubble/en/galBubbleEmergency1.svg",
+                "gal2": "images/galBubble/en/galBubbleEmergency2.svg",
+                "gal3": "images/galBubble/en/galBubbleEmergency3.svg",
+                "gal4": "images/galBubble/en/galBubbleEmergency4.svg",
+                "gal5": "images/galBubble/en/galBubbleEmergency5.svg",
+                "startCar": "Start Vehicle"
+            }
+        ],
+        "EtcControl": [
+            {
+                "title": "ETC Traction Control System",
+                "ice1": "images/en/ice1.svg",
+                "ice2": "images/en/ice2.svg",
+                "ice3": "images/en/ice3.svg",
+                "ice4": "images/en/ice4.svg"
+            }
+        ],
+        "InnerLock": [
+            {
+                "title": "Internal Lock – Operational Use",
+                "text": "For operational driving, locking is performed per commander instruction.",
+                "bubble": "images/en/pressMe-buble-he.svg",
+                "bubbleRed": "images/galBubble/en/bubble-innerLock.svg"
+            }
+        ],
+        "BatteryPlace": [
+            {
+                "text": "The battery is located under the driver’s seat",
+                "bubble": "images/galBubble/en/battary-bubble.svg",
+                "bubble1": "images/galBubble/en/battary-bubble1.svg"
+            },
+            {
+                "text": "The battery is located under the driver’s seat"
+            }
+        ],
+        "DefenderEnd": [
+            {
+                "title": "General Operating Notes",
+                "text": "Lock the differential when changing a tire.\nWait for glow plug light to turn off before starting.\nDo not operate starter more than 30 seconds.\nWait 15 seconds before engine shutdown.\nDo not hold steering at full lock more than 3 seconds.",
+                "popUp": "Found fault – yellow"
+            }
+        ],
+        "HighlixStart": [
+            {
+                "title": "David – Toyota Hilux"
+            }
+        ],
+        "HighlixVideo": [
+            {
+                "title": "Transfer Case – Front Axle Engage / Disengage",
+                "video": "videos/he/highlixVideo.mp4"
+            },
+            {
+                "galSrc": "images/galBubble/en/galDefenderVideo.svg",
+                "title": "Transfer Case Operation",
+                "text": "To engage the front axle, stop the vehicle and shift to neutral (N).\nLift the switch and wait for the indicator light.\nIf engagement fails, shift to D, release brakes and roll slowly without throttle."
+            },
+            {
+                "galSrc": "images/galBubble/en/galHighlixVideo.svg"
+            }
+        ],
+        "FrontSeren": [
+            {
+                "title": "Front Axle Engage / Disengage",
+                "text": "• Red light off – right axle disconnected\n• Only then steep descent/ascent is allowed\n• Engage axle slowly until red light turns on\n• Disengage slowly until light turns off"
+            },
+            {
+                "tableData": [
+                    [
+                        "Mode",
+                        "4x4 Selector",
+                        "Front Axle Switch"
+                    ],
+                    [
+                        "Normal Road",
+                        "2H",
+                        "Disconnected"
+                    ],
+                    [
+                        "Steep Road",
+                        "4x4 LOW",
+                        "Disconnected"
+                    ],
+                    [
+                        "Off-road",
+                        "4x4 HIGH / LOW",
+                        "Engaged"
+                    ]
+                ]
+            }
+        ],
+        "SwitchBoard": [
+            {
+                "title": "Switch Panel",
+                "galSrc": "images/galBubble/en/galSwitches.svg",
+                "switches": [
+                    "images/en/switch6.png",
+                    "images/en/switch5.png",
+                    "images/en/switch4.png",
+                    "images/en/switch3.png",
+                    "images/en/switch2.png",
+                    "images/en/switch1.png"
+                ],
+                "switchesText": [
+                    {
+                        "title": "Flashing Light",
+                        "text": "Activate per mission order"
+                    },
+                    {
+                        "title": "Windshield Washer",
+                        "text": "Cleaning paint from windshield. Prep only."
+                    },
+                    {
+                        "title": "Ventilation Fan",
+                        "text": "Purifies troop cabin during fire. Operational use only."
+                    },
+                    {
+                        "title": "Cat Eye Lights",
+                        "text": "Night identification lights. Operational use only."
+                    },
+                    {
+                        "title": "Front Axle Disconnect",
+                        "text": "Engages / disengages front axle drive"
+                    },
+                    {
+                        "title": "Light Cutoff",
+                        "text": "Disables all vehicle lights. Operational use only."
+                    }
+                ]
+            }
+        ],
+        "Handbrake": [
+            {
+                "title": "Electric Parking Brake",
+                "text": "The electric brake supplements the mechanical brake and is mounted on the rear driveshaft.",
+                "cards": [
+                    {
+                        "front": "Activation",
+                        "back": "• Automatically activates with parking brake.\n• Indicator flashes then stays on.\n• Release flashes then turns off."
+                    },
+                    {
+                        "front": "Safety",
+                        "back": "• Ensure vehicle does not roll.\n• For towing only: can be released with 12V battery.\n• Do not remove connecting pin – injury risk."
+                    },
+                    {
+                        "front": "Parking",
+                        "back": "• Flat or slope up to 18% – brakes after 3 sec.\n• Above 18% – brakes after 8 sec."
+                    },
+                    {
+                        "front": "Driving Off",
+                        "back": "Vehicle can move 3 seconds after release."
+                    },
+                    {
+                        "front": "Possible Failure Causes",
+                        "back": "• Main power switch off.\n• Batteries disconnected or empty."
+                    }
+                ]
+            }
+        ],
+        "CarSystem": [
+            {
+                "title": "Vehicle Systems",
+                "galSrc": "images/galBubble/en/galSystem.svg",
+                "buttons": [
+                    {
+                        "id": 0,
+                        "title": "Main Power Disconnect",
+                        "title2": "Main Power and 24V System",
+                        "img": "images/place-img.png",
+                        "text": "Located in engine bay.\nTurn counterclockwise to shut down.\nTurn clockwise to power on."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Rear AC Control",
+                        "title2": "Rear Air Conditioning",
+                        "img": "images/place-img.png",
+                        "text": "Located left of audio system.\nClockwise to activate.\nCounterclockwise to deactivate."
+                    },
+                    {
+                        "id": 1,
+                        "title": "24V Voltage Indicator",
+                        "title2": "24V Voltage Indicator",
+                        "img": "images/place-img.png",
+                        "text": "Located near gear lever.\nShows 24V system charge.\nDisplay appears above 24.2V."
+                    }
+                ]
+            }
+        ],
+        "HighlixDoors": [
+            {
+                "title": "Vehicle Systems",
+                "galSrc": "images/galBubble/en/galDoors.svg",
+                "buttons": [
+                    {
+                        "id": 0,
+                        "title": "External Door Handle",
+                        "steps": [
+                            {
+                                "title": "External Door Handle",
+                                "img": "images/place-img.png",
+                                "text": "Located on the outside of the door.\nLocking the vehicle:\n• Insert the key and turn clockwise to lock the door.\nUnlocking the vehicle:\n• Insert the key and turn counterclockwise to unlock.\n• Press the button to open the door.\n• Note: Do not lock the doors while inside the vehicle."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1,
+                        "title": "Front Door Mechanism",
+                        "steps": [
+                            {
+                                "title": "Front Door Mechanism",
+                                "img": "images/place-img.png",
+                                "text": "Installed on all three vehicle doors.\nTo close the door:\n• Close gently until a click is heard.\nTo open the door:\n• Pull the handle upward and push the door outward."
+                            },
+                            {
+                                "title": "Front Door Latch",
+                                "img": "images/place-img.png",
+                                "text": "Exists only on the inner section of the front doors.\nEnsure the latch is secured before driving.\nTo lock the front door:\n• Push the latch down and rotate right or left until the T-handle locks.\nTo unlock the latch:\n• Push the latch down and rotate to release the T-handle."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "AccidentStart": [
+            {
+                "title": "Traffic Accidents and Vehicle Damage Debriefs"
+            }
+        ],
+        "AccidentDebrief": [
+            {
+                "galSrc": "images/galBubble/en/galAccident.svg",
+                "popups": {
+                    "bomb": {
+                        "steps": [
+                            {
+                                "title": "David vehicle after roadside bomb – Shechem 12.12.06 (No casualties)",
+                                "text": "Text...",
+                                "img": "images/bomb.png"
+                            }
+                        ]
+                    },
+                    "rocks": {
+                        "steps": [
+                            {
+                                "title": "Vehicle damage during operation in Kabetia (No casualties)",
+                                "text": "Text...",
+                                "img": "images/bomb.png"
+                            }
+                        ]
+                    },
+                    "mud": {
+                        "steps": [
+                            {
+                                "title": "Vehicle stuck during training on Beit Nir road",
+                                "text": "Text...",
+                                "img": "images/bomb.png"
+                            }
+                        ]
+                    },
+                    "flip": {
+                        "steps": [
+                            {
+                                "title": "Vehicle rollover – Judea–Hebron area (3.12.09)",
+                                "text": "Text 1",
+                                "img": "images/1.png"
+                            },
+                            {
+                                "title": "Vehicle rollover – Judea–Samaria area",
+                                "text": "Text 2",
+                                "img": "images/2.png"
+                            },
+                            {
+                                "title": "Vehicle rollover – Samaria area (30.11.09)",
+                                "text": "Text 3",
+                                "img": "images/3.png"
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "Summary": [
+            {
+                "title": "Summary",
+                "galSrc": "images/galBubble/en/galSummary.svg",
+                "text1": "The “David” vehicle is not forgiving of driving errors. ",
+                "text2": "Lack of experience increases risk, especially in extreme conditions. ",
+                "text3": "Most accidents occur on roads at high speed. \nProper driving requires awareness. ",
+                "text4": "The best way to reduce risk is slowing down, ",
+                "text5": "which increases reaction time and control. "
+            }
+        ],
+        "End": [
+            {
+                "btnText": "Back to Package",
+                "galSrc": "images/galBubble/en/galEnd.svg",
+                "warning": "images/en/end-warning.svg"
+            }
+        ]
+    }
+}

@@ -1,0 +1,943 @@
+.title {
+    font-family: "rubik-black";
+    font-size: 2.6rem;
+    color: #073799;
+    margin-bottom: 2rem;
+}
+
+/* defenderStart */
+
+.defender-start-textBox {
+    position: relative;
+    text-align: start;
+    color: black;
+    font-size: 2rem;
+    width: 45rem;
+    top: 10rem;
+    left: 15rem;
+}
+
+.defender-start-title {
+    font-family: "rubik-black";
+    font-size: 2.6rem;
+    color: #073799;
+    margin-bottom: 2rem;
+}
+
+.defender-start-semiTitle {
+    font-family: "assistant-bold";
+}
+
+.defenderImg-start {
+    width: 30rem;
+    position: relative;
+    bottom: 4rem;
+    right: 20rem;
+}
+
+.madat-img {
+    height: 13rem;
+    margin: 0rem 1rem;
+}
+
+@media (max-width: 1300px) {
+    .defender-start-textBox {
+        left: 10rem;
+        width: 30rem;
+    }
+    .defenderImg-start {
+        width: 30rem;
+        bottom: 10rem;
+        right: 17rem;
+    }
+    .madat-img {
+        height: 10rem;
+        margin: 0rem 0.5rem;
+    }
+    
+}
+@media (max-width: 1100px) {
+    .defenderImg-start {
+        width: 27rem;
+        right: 15rem;
+    }
+}
+
+@media (max-width: 1000px) {
+    .defender-start-textBox {
+        left: 10rem;
+        width: 25rem;
+    }
+    .defenderImg-start {
+        width: 23rem;
+        right: 14rem;
+    }
+}
+
+@media (max-height: 1000px) {
+    .defender-start-textBox {
+        top: 8rem;
+    }
+
+    .defender-start-title {
+        margin-bottom: 0rem;
+    }
+}
+
+/* defenderVideo */
+
+.defenderVideoTitle {
+    font-family: "rubik-black";
+    font-size: 2.6rem;
+    color: #073799;
+    margin-bottom: 2rem;
+    position: relative;
+    top: 6rem;
+    left: 19rem;
+}
+
+.defenderVideoSrc {
+    height: 30rem;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+.defender-video-text-container {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    width: 45rem;
+    text-align: start;
+    font-size: 1.5rem;
+    background-color: rgb(255, 255, 255);
+    padding: 1rem;
+    border-radius: 20px;
+    color: black;
+    white-space: pre-line;
+}
+
+.defender-video-text-title {
+    font-weight: bold;
+}
+
+.galDefenderVideo {
+    position: relative;
+    top: 24rem;
+    right: 28.5rem;
+}
+
+@media (max-width: 1200px) {
+    .defenderVideoSrc {
+        height: 25rem;
+    }
+
+    .defenderVideoTitle {
+        left: 15rem;
+    }
+}
+
+@media (max-width: 1100px) {
+    .defenderVideoTitle {
+        left: 15rem;
+    }
+
+    .defenderVideoSrc {
+        height: 22rem;
+    }
+
+    .defender-video-text-container {
+        width: 38rem;
+        font-size: 1.4rem;
+    }
+
+    .galDefenderVideo {
+        right: 25rem;
+    }
+
+    .defenderVideoTitle {
+        left: 10rem;
+    }
+}
+
+@media (max-height: 900px) {
+    .defender-video-text-container {
+        top: 58%;
+    }
+
+    .galDefenderVideo {
+        top: 26rem;
+    }
+}
+
+/* defenderTransferSvg */
+
+.class-1,
+.class-2 {
+    fill: #fff;
+}
+
+.class-3 {
+    font-size: 96px;
+}
+
+.class-3,
+.class-2,
+.class-4 {
+    font-family: Bahnschrift-Bold, Bahnschrift;
+    font-variation-settings: 'wght'700, 'wdth'100;
+    font-weight: 700;
+}
+
+.class-5 {
+    fill: #e69907;
+}
+
+.class-6 {
+    fill: #073799;
+}
+
+.class-2 {
+    font-size: 118px;
+}
+
+.class-4 {
+    font-size: 50px;
+}
+
+@keyframes blink-soft {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.4;
+    }
+}
+
+.transfer-blink {
+    animation: blink-soft 1.2s ease-in infinite;
+    cursor: pointer;
+}
+
+/* defenderTransfer */
+
+.defenderTransferState {
+    background-color: #073799;
+    border: 2px solid #fff;
+    font-size: 1.3rem;
+    color: #fff;
+    padding: 0.8rem;
+    width: 14rem;
+    border-radius: 7px;
+    margin: 0rem 4rem;
+    margin-bottom: 2rem;
+}
+
+.defender-transfer-state-title {
+    font-family: "assistant-bold";
+    font-weight: bold;
+    font-size: 1.6rem;
+}
+
+.defenderTransferStateContainer {
+    display: flex;
+}
+
+.defenderTransferContent {
+    position: relative;
+    top: 6rem;
+    z-index: 1;
+}
+
+.galDefenderTansfer {
+    position: relative;
+    bottom: 6rem;
+    right: 30rem;
+}
+
+@media (max-width: 1200px) {
+    .galDefenderTansfer {
+        right: 28rem;
+    }
+}
+
+@media (max-width: 1100px) {
+    .defenderTransferState {
+        margin: 0rem 3rem;
+        margin-bottom: 2rem;
+    }
+
+    .galDefenderTansfer {
+        right: 25.5rem;
+    }
+}
+
+@media (max-width: 1000px) {
+    .defenderTransferState {
+        margin: 0rem 2.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .galDefenderTansfer {
+        right: 22rem;
+    }
+
+    .defenderTransferContent {
+        left: 3rem;
+    }
+}
+
+.blur-background {
+    background-color: rgb(224, 224, 224, 0.6);
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0rem;
+    right: 0rem;
+    z-index: 1;
+}
+
+.defender-wheel-container {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    z-index: 1;
+}
+
+.xbtn {
+    font-family: "fredoka";
+    color: #FFF2B4;
+    font-size: 3rem;
+    cursor: pointer;
+}
+
+.xbtn-defender-wheel {
+    position: relative;
+    bottom: 27rem;
+    left: 9rem;
+}
+
+/* difrenzialChoose */
+
+.difrenzialChooseTitle {
+    font-family: "rubik-black";
+    font-size: 2.6rem;
+    color: #073799;
+    margin-bottom: 2rem;
+    position: relative;
+    top: 6rem;
+    left: 15rem;
+}
+
+.roadBackground {
+    position: relative;
+    top: 7rem;
+    width: 47rem;
+    height: 34rem;
+    background-image: url("../assets/images/road-background.svg");
+    background-size: cover;
+    font-size: 1.68rem;
+    padding: 6rem;
+    text-align: start;
+    color: black;
+}
+
+.warningText {
+    color: #E69907;
+    font-family: "assistant-bold";
+}
+
+.boldText {
+    font-family: "assistant-bold";
+}
+
+.highlightText {
+    font-family: "assistant-bold";
+    color: #E69907;
+}
+
+.difrenzialChooseWarningSign {
+    width: 7rem;
+    position: relative;
+    bottom: 3rem;
+    right: 29rem;
+    cursor: pointer;
+    animation: pulse 1.8s ease infinite;
+    z-index: 1;
+}
+
+.difrenzialChooseBubble {
+    width: 8rem;
+    position: relative;
+    bottom: 5rem;
+    right: 17rem;
+}
+
+.xbtn-difrenzialChoose {
+    color: #fff;
+    position: relative;
+    bottom: 30rem;
+    left: 8rem;
+}
+
+.warning1-container {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    z-index: 1;
+}
+
+@media (max-width: 1500px) {
+    .difrenzialChooseTitle {
+        left: 8rem;
+    }
+}
+
+.roadBackground p {
+    white-space: normal;
+}
+
+.roadBackground span,
+.roadBackground strong {
+    display: inline !important;
+    white-space: normal !important;
+}
+
+.road-page-0 {
+    font-size: 2rem;
+}
+
+@media (max-width: 1100px) {
+    .difrenzialChooseTitle {
+        left: 5rem;
+        font-size: 2.2rem;
+    }
+
+    .roadBackground {
+        width: 40rem;
+        height: 29rem;
+        font-size: 1.45rem;
+        padding: 5rem;
+    }
+
+    .difrenzialChooseBubble {
+        width: 7rem;
+        right: 14.5rem;
+        bottom: 4.3rem;
+    }
+
+    .difrenzialChooseWarningSign {
+        right: 25rem;
+        width: 6rem;
+    }
+}
+
+/* DifrenzialWarning */
+.DifrenzialLockSvg-wrapper {
+    position: absolute;
+    top: 40%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+.galDifrenzialWarning {
+    position: relative;
+    top: 30rem;
+    right: 23rem;
+}
+
+.DifrenzialLightExplain {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    z-index: 1;
+    color: black;
+    background-color: #f49615;
+    width: 45rem;
+    padding: 1.5rem;
+    border-radius: 20px;
+    font-size: 2rem;
+    text-align: start;
+}
+
+.xbtn-DifrenzialLightExplain {
+    color: black;
+    font-size: 2rem;
+    position: relative;
+    bottom: 1rem;
+    left: 0rem;
+    margin-bottom: -1rem;
+}
+
+.difrenzialWarningSign-container {
+    position: relative;
+    top: 35rem;
+    right: 23rem;
+    display: flex;
+}
+
+.difrenzialWarningBubble {
+    margin: -1.5rem;
+}
+
+.difrenzialWarningSign {
+    margin: -1.5rem;
+    cursor: pointer;
+    animation: pulse 1.8s ease infinite;
+}
+
+@media (max-width: 1100px) {
+    .galDifrenzialWarning {
+        right: 16rem;
+    }
+
+    .difrenzialWarningSign-container {
+        right: 17rem;
+    }
+}
+
+/* DifrenzialLockSvg */
+.DifrenzialLockSvg {
+    fill: #f49615;
+}
+
+.DifrenzialLockSvg-wrapper {
+    width: 20rem;
+}
+
+/* ChangeGear */
+.hover-table-Gear {
+    white-space: pre-line;
+}
+
+.hover-table-Gear td:last-child {
+    text-align: start;
+}
+
+/* EmergencyStart */
+
+.underlineText {
+    text-decoration: underline;
+}
+
+.EmergencyStartText {
+    color: black;
+    font-size: 1.9rem;
+    width: 50rem;
+    text-align: start;
+    position: relative;
+    top: 7rem;
+    left: 2rem;
+}
+
+.EmergencyStartText-inner {
+    margin-top: 1.5rem;
+}
+
+.galEmergencyStart {
+    position: relative;
+    top: 6rem;
+    right: 29rem;
+}
+
+.emergency-start-img {
+    width: 18rem;
+    position: relative;
+    top: 15rem;
+    left: 8rem;
+}
+
+.emergencyKey {
+    width: 10rem;
+    position: relative;
+    top: 18rem;
+    left: 2rem;
+}
+
+.emergency-start-img2 {
+    width: 18rem;
+    position: relative;
+    top: 8rem;
+    left: 0rem;
+}
+
+.emergency-animation {
+    animation: pulse 1.8s ease infinite;
+    cursor: pointer;
+}
+
+.emergency-start-ignition {
+    position: relative;
+    top: 22rem;
+    left: 25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    font-family: "assistant-bold";
+}
+
+.emergency-start-ignition-img {
+    width: 8rem;
+}
+
+.galEmergencyStart-page2 {
+    top: -7rem;
+}
+
+@media (max-width: 1100px) {
+    .EmergencyStartText {
+        left: 0rem;
+    }
+}
+
+@media (max-width: 1200px) {
+    .galEmergencyStart {
+        top: 7rem;
+        right: 20rem;
+    }
+
+    .galEmergencyStart-page2 {
+        top: -7rem;
+    }
+
+    .emergency-start-ignition {
+        left: 17rem;
+    }
+}
+
+/* EtcControl */
+.EtcControl-road {
+    height: 100vh;
+    position: absolute;
+    top: 0rem;
+    left: 30rem;
+}
+
+.EtcControlTitle {
+    position: relative;
+    top: 6rem;
+    left: 20rem;
+}
+
+.ice-container {
+    position: relative;
+    top: 5rem;
+    right: 7rem;
+    display: grid;
+    gap: 0rem 4rem;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.little-ice {
+    width: 16rem;
+}
+
+.left-corner-ice {
+    justify-self: end;
+    align-self: end;
+}
+
+.big-ice {
+    width: 22rem;
+}
+
+@media (max-width: 1350px) {
+    .EtcControl-road {
+        left: 20rem;
+    }
+
+    .EtcControlTitle {
+        left: 15rem;
+    }
+
+    .ice-container {
+        right: 3rem;
+        gap: 0rem 2rem;
+    }
+
+}
+
+@media (max-width: 1200px) {
+    .EtcControl-road {
+        left: 10rem;
+    }
+
+    .EtcControlTitle {
+        left: 10rem;
+    }
+
+    .ice-container {
+        right: 2rem;
+        gap: 0rem 0rem;
+    }
+}
+
+@media (max-height: 850px) {
+    .little-ice {
+        width: 14rem;
+    }
+
+    .big-ice {
+        width: 18rem;
+    }
+}
+
+/* InnerLock */
+
+.innerLock-img {
+    width: 22rem;
+    margin: 0rem 2rem;
+    position: relative;
+    top: 6rem;
+}
+
+.innerLock-text {
+    color: black;
+    font-family: "assistant-bold";
+    font-size: 1.5rem;
+    position: relative;
+    top: 7rem;
+}
+
+.innerLockWarningSign-container {
+    position: relative;
+    bottom: 4rem;
+    right: 52rem;
+    display: flex;
+}
+
+.innerLockTitle {
+    position: relative;
+    top: 6rem;
+    left: 14rem;
+}
+
+.innerLock-nextBtn {
+    z-index: 1;
+}
+
+.galInnerLock {
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+@media (max-width: 1300px) {
+    .innerLockWarningSign-container {
+        right: 43rem;
+    }
+
+    .innerLock-img {
+        width: 20rem;
+        margin: 0rem 1rem;
+        top: 6rem;
+    }
+
+    .innerLockTitle {
+        left: 11rem;
+        font-size: 2.4rem;
+    }
+}
+
+@media (max-width: 1100px) {
+    .innerLockWarningSign-container {
+        right: 37.5rem;
+    }
+
+    .innerLock-img {
+        width: 18rem;
+        margin: 0rem 0.5rem;
+        top: 6rem;
+    }
+
+    .innerLockTitle {
+        left: 8rem;
+        font-size: 2.2rem;
+    }
+}
+
+/* BatteryPlace */
+
+.animation {
+    animation: pulse 1.8s ease infinite;
+    cursor: pointer;
+}
+
+.galBatteryPlace {
+    position: absolute;
+    bottom: 7rem;
+    left: 20rem;
+}
+
+.driverSeat-battery {
+    width: 25rem;
+}
+
+.battery-content {
+    position: relative;
+    top: 16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transform: translateY(0);
+    transition: transform 0.6s ease;
+}
+
+.battery-content2 {
+    transform: translateY(-8rem);
+}
+
+.battery-img {
+    width: 16rem;
+}
+
+.batteryImg {
+    width: 14rem;
+    margin: 1rem;
+}
+
+.batteyExplain {
+    color: #fff;
+    background-color: #323232;
+    padding: 4rem;
+    font-size: 2rem;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+@media (max-width: 1400px) {
+    .galBatteryPlace {
+        left: 10rem;
+    }
+}
+
+@media (max-width: 1100px) {
+    .galBatteryPlace {
+        left: 1rem;
+    }
+}
+
+/* DefenderEnd */
+.defenderEnd-content {
+    color: #fff;
+    background-color: #073799;
+    text-align: start;
+    font-size: 2rem;
+    padding: 4rem 4rem 1rem 5rem;
+    white-space: pre-line;
+    line-height: 1.6;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+.defenderEnd-info-btn {
+    width: 3.2rem;
+    height: 3.2rem;
+    border-radius: 50%;
+    background-color: #f5a623;
+    color: #fff;
+    font-family: "assistant-bold";
+    font-size: 2rem;
+    line-height: 3.2rem;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 3px 0 #d48b12;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    position: absolute;
+    top: 10rem;
+    left: 2rem;
+}
+
+
+.defenderEnd-info-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 0 #d48b12;
+}
+
+.defenderEnd-info-btn:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 0 #d48b12;
+}
+
+.defenderEnd-info-box {
+    position: absolute;
+    top: 14rem;
+    left: 0.5rem;
+    background-color: #f5a623;
+    border: 2px solid #FFF2B4;
+    border-radius: 0.3rem;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    color: #FFF2B4;
+    white-space: nowrap;
+    animation: infoFadeIn 0.25s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    font-family: "assistant-bold";
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.defenderEnd-car {
+    height: 5rem;
+    margin-top: 2rem;
+}
+
+.lahatPop {
+    width: 5rem;
+}
+
+
+@keyframes infoFadeIn {
+    from {
+        opacity: 0;
+        transform: translateX(0.5rem);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@media (max-width: 1100px) {
+    .defenderEnd-content {
+        font-size: 1.6rem;
+        max-width: 45rem;
+        padding: 3rem 3rem 1rem 5rem;
+    }
+
+    .defenderEnd-car {
+        height: 4rem;
+        margin-top: 2rem;
+    }
+
+    .defenderEnd-info-btn {
+        top: 7rem;
+        left: 2rem;
+    }
+
+    .defenderEnd-info-box {
+        top: 11rem;
+        left: 0.5rem;
+    }
+}

@@ -1,0 +1,589 @@
+.title-highlix {
+    position: relative;
+    top: 5rem;
+    left: 22rem;
+}
+
+
+@media (max-width: 1400px) {
+    .title-highlix {
+        left: 15rem;
+    }
+}
+
+@media (max-width: 1100px) {
+    .title-highlix {
+        left: 10rem;
+    }
+}
+
+.highlixStartImg {
+    max-width: 20rem;
+    max-height: 20rem;
+}
+
+.highlixStartImgContainer {
+    max-width: 50rem;
+    gap: 2rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    position: relative;
+    top: 8rem;
+}
+
+/* HighlixVideo */
+
+.title-highlixVideo {
+    position: relative;
+    top: 5rem;
+    left: 14rem;
+}
+
+
+.highlix-video-text-container {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    width: 45rem;
+    text-align: start;
+    font-size: 1.8rem;
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+    border-radius: 20px;
+    color: black;
+    white-space: pre-line;
+    line-height: 1.6;
+}
+
+.galhighlixVideo {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+.galHighlixRedBubble {
+    width: 20rem;
+}
+
+.galHighlixRed {
+    height: 11rem;
+}
+
+
+@media (max-width: 1400px) {
+    .title-highlixVideo {
+        top: 7rem;
+        left: 10rem;
+        font-size: 2.4rem;
+    }
+}
+
+@media (max-width: 1200px) {
+    .title-highlixVideo {
+        top: 10rem;
+        left: 7rem;
+    }
+
+    .highlix-video-text-container {
+        width: 38rem;
+        font-size: 1.6rem;
+
+        padding: 1.5rem;
+
+    }
+}
+
+/* FrontSeren */
+
+.frontSeren-info-btn {
+    width: 3.2rem;
+    height: 3.2rem;
+    border-radius: 50%;
+    background-color: #f5a623;
+    color: #fff;
+    font-family: "assistant-bold";
+    font-size: 2rem;
+    line-height: 3.2rem;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 3px 0 #d48b12;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+}
+
+
+.frontSeren-info-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 0 #d48b12;
+}
+
+.frontSeren-info-btn:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 0 #d48b12;
+}
+
+.serenPopup {
+    background-color: rgba(7, 55, 153, 1);
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    padding: 3.5rem 2rem 2rem 2rem;
+    display: flex;
+    border-radius: 10px;
+}
+
+.xbtn-seren {
+    font-size: 1.9rem;
+    position: absolute;
+    top: 0.5rem;
+    right: 1rem;
+}
+
+.hover-table-highlix {
+    position: relative;
+    top: 0rem;
+    width: 30rem;
+}
+
+@media (max-width: 1300px) {
+    .hover-table-highlix {
+        position: relative;
+        top: 0rem;
+        right: 0rem;
+        width: 30rem;
+    }
+}
+
+/* SwitchBoard */
+
+.switch-img {
+    height: 15rem;
+    margin: 0rem 0.3rem;
+    cursor: pointer;
+}
+
+.switches-container {
+    display: flex;
+    gap: 0.6rem;
+}
+
+.galSwitchBoard {
+    position: relative;
+    top: 10rem;
+    right: 36rem;
+}
+
+.switch-wrapper {
+    position: relative;
+    top: 10rem;
+    display: inline-block;
+}
+
+.switch-text-box {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 0rem;
+    z-index: 10;
+    background-color: #ffffff;
+    border: 3px solid #0b3fa5;
+    border-radius: 16px;
+    padding: 1rem 1.5rem 1rem 1rem;
+    width: fit-content;
+    max-width: 35rem;
+    direction: rtl;
+    text-align: right;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* העיגול עם המספר */
+.switch-number {
+    position: absolute;
+    top: -14px;
+    right: -14px;
+    width: 36px;
+    height: 36px;
+    background-color: #0b3fa5;
+    color: #ffffff;
+    border-radius: 50%;
+    font-family: "assistant-bold";
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* תוכן */
+.switch-text-content {
+    display: flex;
+    flex-direction: column;
+}
+
+/* כותרת */
+.switch-title {
+    font-family: "assistant-bold";
+    font-size: 1rem;
+    color: #000000;
+    margin: 0;
+}
+
+.switch-title span {
+    font-family: "assistant-bold";
+}
+
+/* טקסט רגיל */
+.switch-text {
+    font-family: "assistant";
+    font-size: 1rem;
+    color: #000000;
+    margin: 0;
+    line-height: 1.2;
+}
+
+@media (max-width: 1400px) {
+    .galSwitchBoard {
+        top: 4rem;
+        right: 29rem;
+    }
+
+    .switch-img {
+        height: 14rem;
+        margin: 0rem 0rem;
+    }
+}
+
+@media (max-width: 1200px) {
+    .galSwitchBoard {
+        top: 4rem;
+        right: 25rem;
+    }
+
+    .switch-img {
+        height: 12rem;
+    }
+
+    .switch-text-box {
+        padding: 1rem 1rem 0.5rem 0.5rem;
+        width: fit-content;
+    }
+
+}
+
+/* Handbrake */
+
+.handbrake-firstPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    position: relative;
+    top: 10rem
+}
+
+.handbrakeImg {
+    width: 17rem;
+
+}
+
+.handbrake-text {
+    color: #000;
+    text-align: right;
+    font-family: Assistant;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 30rem;
+}
+
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1rem;
+    justify-items: center;
+    position: relative;
+    top: 4rem;
+}
+
+.cards-grid>.flip-card {
+    grid-column: span 2;
+}
+
+.cards-grid>.flip-card:nth-child(4) {
+    grid-column: 2 / span 2;
+}
+
+.cards-grid>.flip-card:nth-child(5) {
+    grid-column: 4 / span 2;
+}
+
+.title-handBrake {
+    position: relative;
+    top: 5rem;
+    left: 15rem;
+}
+
+/* CarSystem */
+
+.galCarSystem {
+    position: relative;
+    top: 10rem;
+    right: 34rem;
+    pointer-events: none;
+}
+
+.system-btn-img {
+    height: 12rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+.system-btn {
+    font-family: "assistant-bold";
+    color: #000;
+    font-size: 1.5rem;
+    margin: 0rem 2rem;
+}
+
+.system-btn-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 15rem
+}
+
+.system-text-box {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #ffffff;
+    border: 3px solid #0b3fa5;
+    border-radius: 14px;
+    width: 40rem;
+    max-width: 90%;
+    padding: 1.5rem 1.8rem;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    z-index: 100;
+    text-align: right;
+    white-space: pre-line;
+}
+
+.system-text-box-img {
+    width: 10rem;
+}
+
+/* כפתור סגירה */
+.system-text-box .close-btn {
+    position: absolute;
+    top: 0.3rem;
+    right: 0.7rem;
+    background: none;
+    border: none;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #0b3fa5;
+    cursor: pointer;
+    font-family: "fredoka";
+}
+
+/* כותרת */
+.system-text-box h3 {
+    margin: 0 0 1rem 0;
+    font-family: "assistant-bold";
+    font-size: 2rem;
+    color: #0b3fa5;
+    text-align: center;
+}
+
+/* אזור תוכן */
+.system-text-box .system-text-content {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+}
+
+/* טקסט */
+.system-text-box p {
+    font-family: "assistant";
+    font-size: 1.4rem;
+    color: #0b3fa5;
+    line-height: 1.5;
+    margin: 0;
+    flex: 1;
+}
+
+/* Placeholder לתמונה */
+.system-text-box .system-image-placeholder {
+    width: 15rem;
+    height: 20rem;
+    background-color: #e0e0e0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "assistant-bold";
+    color: #000;
+    border-radius: 4px;
+}
+
+@media (max-width: 1300px) {
+    .system-btn {
+        margin: 0rem 1rem;
+    }
+
+    .galCarSystem {
+        right: 28rem;
+    }
+}
+
+@media (max-width: 1100px) {
+    .system-btn {
+        margin: 0rem 0.5rem;
+    }
+
+    .system-btn {
+        font-size: 1.3rem;
+    }
+
+    .galCarSystem {
+        right: 25rem;
+    }
+}
+
+/* HighlixDoors */
+
+.galHighlixDoors {
+    position: relative;
+    bottom: 2rem;
+    right: 30rem;
+    pointer-events: none;
+}
+
+.door-btn-img {
+    height: 28rem;
+    margin: 0rem 5rem;
+    cursor: pointer;
+}
+
+
+.door-btn-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 10rem
+}
+
+.door-text-box {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #0b3fa5;
+    border: 3px solid #fff;
+    border-radius: 14px;
+    width: 40rem;
+    max-width: 90%;
+    padding: 1.5rem 1.8rem;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    z-index: 100;
+    text-align: right;
+    white-space: pre-line;
+}
+
+/* כפתור סגירה */
+.door-text-box .close-btn {
+    position: absolute;
+    top: 0.3rem;
+    right: 0.7rem;
+    background: none;
+    border: none;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+    font-family: "fredoka";
+}
+
+/* כותרת */
+.door-text-box h3 {
+    margin: 0 0 1rem 0;
+    font-family: "assistant-bold";
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+}
+
+/* אזור תוכן */
+.door-text-box .door-text-content {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+}
+
+/* טקסט */
+.door-text-box p {
+    font-family: "assistant";
+    font-size: 1.4rem;
+    color: #fff;
+    line-height: 1.5;
+    margin: 0;
+    flex: 1;
+}
+
+
+.door-text-img {
+    width: 15rem;
+}
+
+.next-step-btn {
+    color: #fff;
+    background-color: transparent;
+    border: 0px;
+    font-size: 2rem;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.door-steps-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.next-step-btn:hover {
+    transform: scale(1.5);
+}
+
+.door-steps-next {
+    position: relative;
+    right: 35rem;
+}
+
+.door-image {
+    width: 15rem;
+}
+
+@media (max-width: 1200px) {
+    .galHighlixDoors {
+        right: 25rem;
+    }
+}
+
+@media (max-width: 1000px) {
+    .galHighlixDoors {
+        right: 20rem;
+    }
+
+    .door-btn-img {
+        height: 28rem;
+        margin: 0rem 2rem;
+        cursor: pointer;
+    }
+}
